@@ -4,16 +4,10 @@ Kapitel 1
 
 Det var en gång en enhörning
 Som hade tappat sitt horn!
-<<<<<<< HEAD
-Men sen hittade hon det igen
-=======
->>>>>>> feature/bird
 
 Det visade sig att en fisk hade lånat det!
 Fisken ville leka att den var en narval..
 Vissa tror att sägnen om enhörningar kommer från narvalarnas horn.
-<<<<<<< HEAD
-=======
 
 En fågel hade hört vad som hänt med enhörningens horn
 Hon flög för att hämta hornet från fisken och lämna tillbaka det till enhörningen.
@@ -21,4 +15,3 @@ Fisken ville först inte lämna tillbaka det, men med lite list fick fågeln tag
 Fågeln flög över berg och dalar och kunde sedan återlämna hornet till sin ägare.
 
 
->>>>>>> feature/bird
